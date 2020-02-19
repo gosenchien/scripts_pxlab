@@ -19,5 +19,6 @@ with open('csv_comp.csv', newline='') as csvfile:
 #        if list2.count(j)>1:
 #            dupli.append(j)
 #    print(dupli)
+## Find out the same values in 2 lists
     for i in list(set(list1) & set(list2)):
         print(i)
