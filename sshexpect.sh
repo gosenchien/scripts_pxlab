@@ -1,8 +1,9 @@
 #!/usr/bin/expect
 
+# Create a list
+set lst [ list 17 18 19 ]
 
-expect "$ " set lst [ list 17 18 19 ]
-
+# Start foreach loop and invlove the list
 foreach i $lst {
 	spawn ssh -o StrictHostKeyChecking=no pixellab@100.91.160.$i
 	expect "ssword:" { send "PMLJJ@1212\r" }
