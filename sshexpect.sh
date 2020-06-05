@@ -1,13 +1,13 @@
 #!/usr/bin/expect
-
-# Create a list
-set lst [ list 17 18 19 ]
-
-# Start foreach loop and invlove the list
+set lst [ list 162 ]
+#Use foreach function
 foreach i $lst {
-	spawn ssh -o StrictHostKeyChecking=no pixellab@100.91.160.$i
-	expect "ssword:" { send "PMLJJ@1212\r" }
-	expect "$ "	{ send "echo 'PMLJJ@1212'|sudo -S apt-get update\r" }
+	spawn ssh -o StrictHostKeyChecking=no adb@100.91.161.$i
+	expect "ssword:" { send "password\r" }
+	expect "$ "	{ send "fastboot devices; adb devices\r" }
+#	expect "adb:"	{ send "password\r" }
 	expect "$ "	{ send "exit" }
 	
 }
+
+
