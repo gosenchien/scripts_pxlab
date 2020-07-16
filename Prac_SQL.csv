@@ -1,0 +1,29 @@
+No.,Project,Stage,DSN,Status,Date On,Request ID,Date Off,Request ID,2nd Date On,Request ID,2nd Date Off,Request ID
+1,F2,EVT,92JAZ02970,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+2,F2,EVT,92JAZ02952,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+3,F2,EVT,92NAZ04259,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+4,F2,EVT,92JAZ02986,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+5,F2,EVT,92NAZ04504,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,,
+6,F2,EVT,92JAZ03074,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,,
+7,F2,EVT,92NAZ04247,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+8,F2,EVT,92NAZ04292,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+9,F2,EVT,92JAZ03113,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,,
+10,F2,EVT,92PAZ04892,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,,
+11,F2,EVT,92NAZ04413,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,,
+12,F2,EVT,92NAZ04288,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,,
+13,F2,EVT,92JAZ03004,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-01-17,Battery swelling  b/147850930
+14,F2,EVT,92NAZ04408,X,2019-03-12,b/127414758,2019-04-26,"Power has interrupt, due to construction. ",2019-04-29,Power returned.,2020-03-10,battery swelling issue b/151124801
+1,B5,EVT,02071FQC200308,O,2020-03-10,b/150745695,,,,,,
+2,B5,EVT,02071FQC200313,O,2020-03-10,b/150745695,,,,,,
+3,B5,EVT,02071FQC200287,O,2020-03-10,b/150745695,,,,,,
+4,B5,EVT,02071FQC200267,O,2020-03-10,b/150745695,,,,,,
+5,B5,EVT,02071FQC200268,O,2020-03-10,b/150745695,,,,,,
+6,B5,EVT,02071FQC200270,O,2020-03-10,b/150745695,,,,,,
+7,B5,EVT,02071FQC200507,O,2020-03-10,b/150745695,,,,,,
+8,B5,EVT,02071FQC200515,O,2020-03-10,b/150745695,,,,,,
+9,B5,EVT,02111FQC200121,O,2020-03-10,b/150745695,,,,,,
+10,B5,EVT,02111FQC200094,O,2020-03-10,b/150745695,,,,,,
+11,B5,EVT,02061FQC201014,O,2020-03-10,b/150745695,,,,,,
+12,B5,EVT,02061FQC201070,O,2020-03-10,b/150745695,,,,,,
+13,B5,EVT,02061FQC201067,O,2020-03-10,b/150745695,,,,,,
+14,B5,EVT,02061FQC201031,O,2020-03-10,b/150745695,,,,,,
